@@ -1,0 +1,110 @@
+[
+    {
+        "作者/仓库": "sansan0/TrendRadar",
+        "描述": "🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点",
+        "语言": "Python",
+        "今日新增星标": "1,053"
+    },
+    {
+        "作者/仓库": "google/adk-go",
+        "描述": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "语言": "Go",
+        "今日新增星标": "137"
+    },
+    {
+        "作者/仓库": "TapXWorld/ChinaTextbook",
+        "描述": "所有小初高、大学PDF教材。",
+        "语言": "Roff",
+        "今日新增星标": "217"
+    },
+    {
+        "作者/仓库": "yeongpin/cursor-free-vip",
+        "描述": "[Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.",
+        "语言": "Python",
+        "今日新增星标": "154"
+    },
+    {
+        "作者/仓库": "nvm-sh/nvm",
+        "描述": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+        "语言": "Shell",
+        "今日新增星标": "55"
+    },
+    {
+        "作者/仓库": "traefik/traefik",
+        "描述": "The Cloud Native Application Proxy",
+        "语言": "Go",
+        "今日新增星标": "110"
+    },
+    {
+        "作者/仓库": "HKUDS/LightRAG",
+        "描述": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+        "语言": "Python",
+        "今日新增星标": "111"
+    },
+    {
+        "作者/仓库": "bobeff/open-source-games",
+        "描述": "A list of open source games.",
+        "语言": "其他",
+        "今日新增星标": "175"
+    },
+    {
+        "作者/仓库": "volcengine/verl",
+        "描述": "verl: Volcano Engine Reinforcement Learning for LLMs",
+        "语言": "Python",
+        "今日新增星标": "77"
+    },
+    {
+        "作者/仓库": "GibsonAI/Memori",
+        "描述": "Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems",
+        "语言": "Python",
+        "今日新增星标": "263"
+    },
+    {
+        "作者/仓库": "yangshun/tech-interview-handbook",
+        "描述": "Curated coding interview preparation materials for busy software engineers",
+        "语言": "TypeScript",
+        "今日新增星标": "155"
+    },
+    {
+        "作者/仓库": "microsoft/call-center-ai",
+        "描述": "Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!",
+        "语言": "Python",
+        "今日新增星标": "133"
+    },
+    {
+        "作者/仓库": "MustardChef/WSABuilds",
+        "描述": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.",
+        "语言": "Python",
+        "今日新增星标": "50"
+    },
+    {
+        "作者/仓库": "playcanvas/engine",
+        "描述": "Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF",
+        "语言": "JavaScript",
+        "今日新增星标": "99"
+    },
+    {
+        "作者/仓库": "iptv-org/iptv",
+        "描述": "Collection of publicly available IPTV channels from all over the world",
+        "语言": "TypeScript",
+        "今日新增星标": "170"
+    },
+    {
+        "作者/仓库": "Zie619/n8n-workflows",
+        "描述": "all of the workflows of n8n i could find (also from the site itself)",
+        "语言": "Python",
+        "今日新增星标": "558"
+    },
+    {
+        "作者/仓库": "milvus-io/milvus",
+        "描述": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+        "语言": "Go",
+        "今日新增星标": "133"
+    },
+    {
+        "作者/仓库": "wolfpld/tracy",
+        "描述": "Frame profiler",
+        "语言": "C++",
+        "今日新增星标": "59"
+    }
+]
