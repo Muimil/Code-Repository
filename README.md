@@ -1,0 +1,1 @@
+# 每日代码小星星\n\n## Markdown转PDF工具\n\n这是一个实用的Python脚本，可以将Markdown文件转换为带有基本样式的PDF文件。它使用了库进行HTML转换，以及库进行PDF渲染。\n\n### 使用方法\n\n1. **安装依赖**：\n```bash\npip install markdown weasyprint\n```\n\n2. **运行脚本**：\n```bash\npython md_to_pdf_converter.py <输入Markdown文件路径> <输出PDF文件路径>\n```\n\n### 示例\n\n```bash\npython md_to_pdf_converter.py README.md output.pdf\n```
